@@ -9,3 +9,7 @@ for (int i = 0; i<h; i+=1) {
         NumElem += 1;
     }
 }
+
+for (int i = 0; i<Result.Length; i++) {
+    Console.WriteLine(Result[i]);
+}  
