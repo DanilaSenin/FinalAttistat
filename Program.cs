@@ -1,4 +1,4 @@
-﻿string [] Array = {"Rus", "rk", "Kazan"};
+﻿string [] Array = {"27", "354", "365", "-1", "354223"};
 string [] Result = new string[Array.Length];
 int h = Array.Length;
 int NumElem = 0;
